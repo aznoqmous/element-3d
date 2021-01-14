@@ -1,0 +1,12 @@
+{
+  "name": "element-3d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/element-3d.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
